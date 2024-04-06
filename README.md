@@ -7,7 +7,8 @@
 - 🤖 I’m currently working in Chengdu, China.
 - 👨‍💻 I’m currently learning Java, Python, Shell, Vue, Golang, DevOps, Cloud Native, etc...
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/cheng000?label=follow%20me&style=social)](https://github.com/cheng000/)
-- 🎣 Hobbies: 🏓 | 🎥 | 🚴‍♂️ | 📖 | 🐈 
+- 🎣 Hobbies: 🏓 | 🎥 | 🚴‍♂️ | 📖 | 🐈
+- 🧭 Repository List Guide: [list](https://github.com/cheng000?tab=stars&user_lists_direction=asc&user_lists_sort=name)
 
 </td>
 <td valign="center"  width="100%" height="100%">
