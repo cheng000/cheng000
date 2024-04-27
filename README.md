@@ -1,5 +1,14 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m cheng000
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+</div>
+
 <table>
 <tr>
 <td valign="top"  width="50%">
@@ -18,6 +27,10 @@
 </table>
 
 <hr/>
+
+## Achievement
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cheng000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🏆 **my github stats:**
 
