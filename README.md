@@ -58,17 +58,26 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cheng000&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=cheng000&show_icons=true&theme=default&hide_border=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" height="180" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cheng000&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheng000&layout=compact&hide_border=true&langs_count=10" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats-profile.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/3-stats-profile.svg" />
+    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats-profile.svg" alt="stats profile" height="180" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheng000&theme=onedark&no-frame=true&column=7" width="100%" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" height="180" />
+  </picture>
 </div>
 
 ---
@@ -88,9 +97,9 @@
 ## 🔗 快捷入口
 
 <div align="center">
-  <a href="https://github.com/cheng000?tab=stars">[![Stars](https://img.shields.io/badge/%E2%AD%90_%E6%98%9F%E6%A0%87%E4%B8%BB%E9%A1%B5-181717?style=for-the-badge&logo=github)](https://github.com/cheng000?tab=stars)</a>
-  <a href="https://github.com/stars/cheng000/lists/02-ai-03-agenttools">[![AgentTools](https://img.shields.io/badge/%F0%9F%A4%96_AI_Agent_%E5%B7%A5%E5%85%B7%E6%A6%9C-8B5CF6?style=for-the-badge)](https://github.com/stars/cheng000/lists/02-ai-03-agenttools)</a>
-  <a href="https://github.com/stars/cheng000/lists/02-framelearn-01-springboot">[![SpringBoot](https://img.shields.io/badge/%F0%9F%8D%83_SpringBoot_%E5%AD%A6%E4%B9%A0%E6%A6%9C-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/stars/cheng000/lists/02-framelearn-01-springboot)</a>
+  <a href="https://github.com/cheng000?tab=stars"><img src="https://img.shields.io/badge/%E2%AD%90_%E6%98%9F%E6%A0%87%E4%B8%BB%E9%A1%B5-181717?style=for-the-badge&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/stars/cheng000/lists/02-ai-03-agenttools"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Agent_%E5%B7%A5%E5%85%B7%E6%A6%9C-8B5CF6?style=for-the-badge" alt="AgentTools" /></a>
+  <a href="https://github.com/stars/cheng000/lists/02-framelearn-01-springboot"><img src="https://img.shields.io/badge/%F0%9F%8D%83_SpringBoot_%E5%AD%A6%E4%B9%A0%E6%A6%9C-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" /></a>
 </div>
 
 <div align="center">
