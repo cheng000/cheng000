@@ -63,9 +63,9 @@
     <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" height="180" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats-profile.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/3-stats-profile.svg" />
-    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats-profile.svg" alt="stats profile" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_light/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/cheng000/cheng000/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats profile" height="180" />
   </picture>
   <br/>
   <picture>
